@@ -49,7 +49,7 @@ void VectorSum::VectorSumMag() {
 	float VSumMagnitude = 0;
 	VSumMagnitude = sqrt(VSum_x * VSum_x + VSum_y * VSum_y + VSum_z * VSum_z);
 	cout << "Magintude of the Vector sum = " << VSumMagnitude << endl;
-}
+}// Commenting for my first commit
 
 void myPoint::PointInput() {
 	cout << "Give the coordinates (x y z format): ";
